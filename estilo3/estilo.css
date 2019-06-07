@@ -1,0 +1,39 @@
+.caja{
+
+	background-color: blue ;
+
+	
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+
+    border: solid orange;
+
+    font-style: bold;
+    font-size: 12px;
+    color:white;
+     text-indent: 9px;
+
+    
+}
+.filosdoblados{
+  margin-top: 39px;
+  border-top-left-radius: 14px;
+  border-top-right-radius:  14px;
+  border-bottom-left-radius: 31px;
+  border-bottom-right-radius: 31px;
+  border: 5px solid #CE98D4;
+  text-indent: 15PX;
+  font-size: 20PX;
+
+ }
+
+ .BORDEPUNTO{
+ 	margin-top: 20px;
+ 	border: green;
+ 	border-style: dotted ;
+ 	border-bottom-right-radius: 30px;
+
+
+ }
+
